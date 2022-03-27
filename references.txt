@@ -1,0 +1,36 @@
+Mobius Inversion Lecture
+http://web.math.ucsb.edu/~padraic/ucsb_2014_15/math_116_s2015/math_116_s2015_lecture4.pdf
+
+Enum Combinatorics
+http://www-math.mit.edu/~rstan/ec/ec1.pdf
+
+Posets Article 
+https://users.math.msu.edu/users/earnshaw/research/poset.pdf
+
+Applications of Mobius Inversion
+http://alpha.math.uga.edu/~pete/Bender-Goldman75.pdf
+
+Mobius Inversion Notes
+https://riliu.math.ncsu.edu/524/notesse10.html
+
+http://www-math.mit.edu/~rstan/pubs/pubfiles/28.pdf
+Binomial Posets
+
+Poset Paper
+http://www.austinmohr.com/14spring299/Poset%20Paper-Katie%20Lyons.pdf
+
+Rota
+https://www.maths.ed.ac.uk/~v1ranick/papers/rota1.pdf
+
+Polya Theorem
+http://www.numdam.org/article/ASNSP_1977_4_4_4_637_0.pdf
+http://math.uchicago.edu/~may/REU2017/REUPapers/Zhang,Alec.pdf
+
+Necklace Polynomial
+https://en.wikipedia.org/wiki/Necklace_polynomial
+
+Partition Lattice
+https://books.google.sk/books?id=SoGLVCPuOz0C&lpg=PP1&dq=general+lattice+theory&pg=PA250&hl=en#v=onepage&q&f=false
+
+Algebraic Combinatorics (Polya, Burnside, Necklace)
+http://www-math.mit.edu/~rstan/algcomb/algcomb.pdf
